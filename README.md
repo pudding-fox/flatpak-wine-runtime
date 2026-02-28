@@ -85,7 +85,7 @@ Thus this approach can be called Flatpak-managed Wine packaging.
   * [ ] [Amplitube](https://www.ikmultimedia.com/products/amplitube4/)
   * [ ] [Audacity](https://www.audacityteam.org/)
   * [ ] [FL Studio](https://www.image-line.com/fl-studio-download/)
-  * [ ] [FoxTunes](https://github.com/Raimusoft/FoxTunes)
+  * [ ] [FoxTunes](https://github.com/pudding-fox/FoxTunes.Next)
   * [ ] [MStarPlayer](https://github.com/ServiusHack/MStarPlayer)
   * [ ] [Melissa](https://github.com/mosynthkey/Melissa)
   * [ ] [Polyphone](https://www.polyphone-soundfonts.com/)
